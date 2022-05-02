@@ -1,2 +1,2 @@
-from Ak import P
-P()
+from Qsr import qsbuy
+qsbuy()
