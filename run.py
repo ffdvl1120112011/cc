@@ -1,2 +1,2 @@
-from Ak import P()
+from Ak import P
 P()
